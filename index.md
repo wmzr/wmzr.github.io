@@ -1,6 +1,6 @@
 # **Welcome**
 ## **学科作业**
-### [信号与系统](https://github.com/wmzr/Python/blob/master/signal/LAB1.py)
+### [信号与系统](https://github.com/wmzr/Python/blob/master/signal/LAB1.py/)
 ### 模拟电子技术基础
 
 You can use the [editor on GitHub](https://github.com/wmzr/wmzr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
